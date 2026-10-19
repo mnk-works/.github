@@ -1,18 +1,3 @@
-# mnk-works
-
-Security research and tooling: offline-first utilities, cryptographic
-post-mortems, and reproducibility-focused proof-of-concepts.
-
-## Projects
-
-| Repository | Description |
-| --- | --- |
-| [non-csrng](https://github.com/mnk-works/non-csrng) | PoC showing `Math.random()` is not a CSPRNG — recover the V8 xorshift128+ state from 4 outputs with z3 and predict every future value. |
-| [check-seed](https://github.com/mnk-works/check-seed) | Offline-first BIP39 seed phrase validation and local address derivation with balance lookup. |
-| [qubic-incident](https://github.com/mnk-works/qubic-incident) | Forensic teardown of the October 2026 Qubic wallet drain caused by `Math.random()`-generated seeds. |
-
----
-
 ## Donate
 
 Monero (XMR) — mainnet subaddress:
