@@ -8,7 +8,7 @@
 ![vibes](https://img.shields.io/badge/vibes-immaculate-c4b5fd?style=flat-square)
 ![privacy](https://img.shields.io/badge/privacy-first-8b5cf6?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/mnk-works/.github/main/profile/wikitan.png" width="230" alt="Cute anime mascot" />
+<img src="https://raw.githubusercontent.com/mnk-works/.github/main/profile/nobg.avif" width="230" alt="Cute" />
 
 🔮 ✨ 🌷 🍵 💫 🐾 🍓 🪄 🌙 💜 🫧 🦋 🍡 🧸
 
@@ -39,7 +39,6 @@
 ---
 
 <div align="center">
-<sub>🌸 mascot: <a href="https://commons.wikimedia.org/wiki/File:Wikipe-tan_conducting.png">Wikipe-tan</a> by Kasuga · CC BY-SA 3.0</sub>
 <br />
 <sub>✨ made with 💜 🍵 and an unreasonable number of emojis ✨</sub>
 </div>
