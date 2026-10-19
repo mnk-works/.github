@@ -8,7 +8,7 @@
 ![vibes](https://img.shields.io/badge/vibes-immaculate-c4b5fd?style=flat-square)
 ![privacy](https://img.shields.io/badge/privacy-first-8b5cf6?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/mnk-works/.github/main/profile/nobg.avif" alt="Cute" />
+<img src="https://raw.githubusercontent.com/mnk-works/.github/main/profile/img.avif" alt="Cute" />
 
 🔮 ✨ 🌷 🍵 💫 🐾 🍓 🪄 🌙 💜 🫧 🦋 🍡 🧸
 
