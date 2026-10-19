@@ -39,6 +39,5 @@
 ---
 
 <div align="center">
-<br />
 <sub>✨ made with 💜 🍵 and an unreasonable number of emojis ✨</sub>
 </div>
